@@ -1,2 +1,2 @@
 # reactbeginning
-This is my first project in React. 
+This is my first project in Reactjs
